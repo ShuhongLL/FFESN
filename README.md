@@ -5,7 +5,7 @@
     Shuhong Liu, Nozomi Akashi, Qingyao Huang, Yasuo Kuniyoshi, Kohei Nakajima
   </p>
 </p>
-
+<br>
 
 We propose a framework for directly utilizing chaotic dyanmics as computation medium. The source code contains two distinct dyanmical system: (1) the discrete-time Feedforward ESN (FFESN) and the continous-time Lorenz96 systems.
 
